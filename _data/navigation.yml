@@ -22,7 +22,7 @@ main:
     url: /files/Danial_CV.pdf
   
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
     
   # - title: "CV"
   #   url: /cv-json/
