@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Danial Alizadeh. I'm a forth-year Ph.D. student at the geography department at the University of California, Santa Barbara. 
+My name is Danial Alizadeh, and I am a Ph.D. student in the Department of Geography at the University of California, Santa Barbara. I also hold an M.A. in Statistics from the Department of Statistics and Applied Probability at UC Santa Barbara.
+
+My research focuses on understanding and modeling human movement responses to disruptive events such as wildfires, hurricanes, and floods. To achieve this, I use statistical methods alongside machine learning and deep learning models to quantify and analyze how people respond to such disruptions.
 
 
 Education Background
