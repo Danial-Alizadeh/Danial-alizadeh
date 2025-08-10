@@ -9,25 +9,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?user=KnwH5o0AAAAJ&hl=en&oi=ao"
+
+ - title: "Teaching"
+    url: /teaching/  
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/      
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+
+  - title: "CV"
+    url: /files/Danial_CV.pdf
+  
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+
